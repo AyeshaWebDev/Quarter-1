@@ -1,2 +1,2 @@
-var a = 60;
-console.log(a);
+var s = 60;
+console.log(s);
