@@ -1,0 +1,4 @@
+var names = ["Zaib", "Kinza", "Isha", "Noor"];
+for (var i = 0; i < names.length; i++) {
+    console.log(names[i]);
+}
